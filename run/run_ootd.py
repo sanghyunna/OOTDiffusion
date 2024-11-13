@@ -2,7 +2,7 @@ from pathlib import Path
 from PIL import Image
 import sys
 import os
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # PROJECT_ROOT = Path(__file__).absolute().parents[1].absolute()
 # sys.path.insert(0, str(PROJECT_ROOT))
